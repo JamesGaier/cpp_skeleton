@@ -6,4 +6,4 @@
 
 ## Process
 1. Use the project as a template in GitHub
-2. Build the project using ./build.sh
+2. Build the project using `./build.sh`
